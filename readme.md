@@ -1,77 +1,53 @@
-# pitcoin
+# meowDAO
 
-the most reliable, transparent and immutable erc20/trc20 bond
+The meowtastically reliable, transparent, and immutable erc20 bond model
 
 # faq
 
 ## wtf is this?
 
-1. Buy tokens in ethereum or tron blockchain at fixed price.
+1. Buy tokens on Ethereum, arbitrum, zkERA, or optimism at a fixed price.
 
-2. [Hodl](https://duckduckgo.com/?q=hodl&ia=web), invite friends with your referral link.
+2. ...
 
-3. ...
-
-4. Profit!
-
-## where does the profit come from?
+## Where does your profit come from?
 
 The purchase/sale fee is 10%, and the transfer fee is 5%.
 
-The entire fee is distributed among all holders according to the number of tokens they own.
+The entirety of this fee is distributed among all holders according to the number of tokens they own.
 
-## why is it reliable?
+## is it reliable?
 
-Your maximum loss is fixed at 19% (if you buy tokens and sell them immediately).
+Your maximum loss is fixed at 19% (if you buy and sell the token immediately).
 
-But if you hodl, you get dividends every time anyone interacts with pitcoin.
+But if you hodl, you get dividends every time anyone interacts with the meowDAO token.
 
-## why is it transparent?
+## HOW is it transparent?
 
 1. This is a completely open-source project.
 
 2. All blockchain transactions are available to everyone.
 
-3. Pitcoin has an open community.
+## HOW is it immutable?
 
-## why is it immutable?
+The smart contract has no owners and will work as long as electricity exists.
 
-The smart contract has no owners, and it will work as long as electricity exists.
+The meowDAO developer does not have any additional rights compared to any other user.
 
-Pitcoin creators and developers are exactly the same users as everyone else, without any additional rights.
+## Can YOU hack it?
 
-## can i hack it?
+Sure, bug bounties are TBA!
 
-Sure!
 
-The smart contract has been [audited](https://github.com/pit-coin/pit-coin.github.io/blob/master/contracts/audit.pdf).
+## Are there any mirrors/interfaces available?
 
-And it has open [bug bounty](https://gitcoin.co/issue/pit-coin/pit-coin.github.io/1/4511).
+~soon~
 
-Feel free to join.
+And, of course, it is available through any Blockchain Explorer.
 
-## are there any mirrors/interfaces available?
+## ON which networks will meowDAO be deployed?
 
-[Beta version](https://pit-coin.github.io/beta/) - test some new features.
+-Ethereum Mainnet
+-ArbitrumONE
+-Optimism
 
-[Developer version](https://aqoleg.github.io/pitcoin) - simplified version.
-
-[Decentralized web version](https://arweave.net/M7bt9_JTqGIbjZgFL5J-xYm-HlwjSIsMeUOQC79_sP4) - unstoppable immutable copy.
-
-And, of course, it is available through the blockchain explorer interface.
-
-## in which networks is pitcoin available?
-
-Ethereum: mainnet, ropsten testnet and goerli testnet.
-
-Tron: mainnet and shasta testnet.
-
-## referral program?
-
-Yeah, 3% of each purchase.
-
-## dapp explorers?
-
-[dapp review](https://dapp.review/dapp/PITcoin-Bond)
-
-[stateofthedapps](https://www.stateofthedapps.com/dapps/pitcoin-bond)
